@@ -18,7 +18,7 @@ It will compile the template and move it to the output jar for finally compress 
 <hr>
 <p>Quite simple, create a new file called "template.java", and code (like if it was a jar executable,
 using "public static void main(String[] args)". At the end of the function, when you like the program to continue,
-insert the next line:
+insert the next line:<br>
 /* --- TEMPLATE --- */
-And put the file (always in .java, do not compile it) in the root of the program. That's all, run the program, 
+<br>And put the file (always in .java, do not compile it) in the root of the program. That's all, run the program, 
 select the jar to infect and wait a few seconds.</p>
